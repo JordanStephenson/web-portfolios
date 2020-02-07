@@ -1,0 +1,16 @@
+{
+  "name": "Web-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://flawlessDeku.github.io/dekuTree",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
